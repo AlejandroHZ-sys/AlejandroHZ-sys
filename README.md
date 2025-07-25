@@ -1,16 +1,30 @@
-## Hi there 👋
+# 👋 Hi! I'm Alejandro Zamora
 
-<!--
-**AlejandroHZ-sys/AlejandroHZ-sys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I'm a **Computer Systems Engineering student** at ESCOM IPN from Mexico, passionate about software development and technology.
 
-Here are some ideas to get you started:
+💻 I mainly work with:
+- **Java**
+- **C**
+- Git & GitHub
+- SQL (SQL Server & MySQL) — intermediate level
+- Basic knowledge of HTML, PHP and CSS.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Currently learning:
+- Spring Boot
+- Angular
+- NoSQL databases
+
+🛠️ Most of my projects are focused on:
+- School projects
+- Object-oriented programming
+- Simple algorithms and data structures programs
+- School networking practice projects
+
+📚 I'm building this profile as a portfolio for future job opportunities.  
+Feel free to explore my projects and follow my progress.
+
+---
+
+📫 How to reach me:  
+[LinkedIn](https://www.linkedin.com/in/alejandro-hern%C3%A1ndez-zamora-98413a377/)  
+📍 Based in Mexico City
