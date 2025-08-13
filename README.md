@@ -8,6 +8,7 @@
 - Git & GitHub
 - SQL (SQL Server & MySQL) — intermediate level
 - Basic knowledge of HTML, PHP and CSS.
+- basic knowledge of Linux (Ubuntu distribution).
 
 🚀 Currently learning:
 - Spring Boot
