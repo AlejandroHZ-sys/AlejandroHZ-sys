@@ -1,58 +1,91 @@
-# 👋 Hi! I'm Alejandro Zamora
+# 👋 Hi! I'm Alejandro Zamora  
+### 💻 Computer Systems Engineering Student | Machine Learning & Software Development
 
 🎓 **Computer Systems Engineering student** at **ESCOM – IPN**  
 📍 Mexico City, Mexico  
-💡 Passionate about **software development**, **problem solving**, and **technology**.
+💡 Passionate about **software development**, **machine learning**, **problem solving**, and **technology applied to real-world solutions**.
+
+---
+
+<p align="center">
+  <a href="mailto:TU_CORREO_AQUI">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+  <a href="https://www.linkedin.com/in/alejandro-hern%C3%A1ndez-zamora-98413a377/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="https://github.com/TU_USUARIO_GITHUB">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+</p>
 
 ---
 
 ## 🖥️ Tech Stack
 
-**Main Languages & Tools**
+### 🔹 Programming Languages
 - ☕ Java  
-- 💻 C  
-- 🌿 Git & GitHub  
-- 🗄️ SQL (SQL Server & MySQL) — *intermediate*
+- 🐍 Python  
+- 💻 C, C++
 
-**Web & Systems**
-- 🌐 HTML, CSS, PHP — *basic*
-- 🐧 Linux (Ubuntu) — *basic*
+### 🔹 Machine Learning & Data
+- 🤖 Scikit-learn  
+- 📊 NumPy, Pandas  
+- 📈 Matplotlib  
+- 🧠 Basic Deep Learning concepts  
+
+### 🔹 Databases
+- 🗄️ SQL Server, MySQL — *Intermediate*
+- 🌱 NoSQL — *Currently learning*
+
+### 🔹 Tools & Systems
+- 🌿 Git & GitHub  
+- 🐧 Linux (Ubuntu) — *Basic*
+- 🌐 HTML, CSS, PHP — *Basic*
 
 ---
 
 ## 🚀 Currently Learning
 
-- Spring Boot  
-- Angular  
-- NoSQL Databases  
+- ⚡ FastAPI  
+- 🐋 Docker  
+- 🧠 Deep Learning  
+- 🔥 NoSQL Databases  
 
 ---
 
 ## 🛠️ Project Focus
 
-Most of my work is oriented toward:
+Most of my work is focused on:
 
 - 📘 Academic and school projects  
 - 🧱 Object-Oriented Programming  
-- 🧮 Basic algorithms and data structures  
-- 🌐 Networking practice and simulation projects  
+- 🧮 Algorithms and data structures  
+- 🤖 Machine Learning models and experimentation  
+- 🌐 Networking practice and simulations  
 
 ---
 
 ## 📚 About This Profile
 
-This GitHub profile serves as my **technical portfolio** for future professional opportunities.  
-Here you’ll find projects that reflect my **learning process, consistency, and professional growth**.
+This GitHub profile serves as my **professional technical portfolio** for future job and internship opportunities.
+
+Here you will find projects that reflect:
+- ✅ My learning process  
+- ✅ Code organization  
+- ✅ Problem-solving skills  
+- ✅ Continuous professional growth  
 
 Feel free to explore my repositories and follow my progress.
 
 ---
 
-## 📫 Contact
+## 📫 Contact & Location
 
-- 🔗 [LinkedIn](https://www.linkedin.com/in/alejandro-hern%C3%A1ndez-zamora-98413a377/)  
-- 📍 Mexico City, Mexico  
+- 🔗 **LinkedIn:**  
+  https://www.linkedin.com/in/alejandro-hern%C3%A1ndez-zamora-98413a377/  
+- 📍 **Location:** Mexico City, Mexico  
 
 ---
 
-⭐ *Always open to learning, collaboration, and new challenges.*
+⭐ *Always open to learning, collaboration, and building impactful technology.*
