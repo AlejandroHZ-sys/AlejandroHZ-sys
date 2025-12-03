@@ -35,8 +35,8 @@
 - 🧠 Basic Deep Learning concepts  
 
 ### 🔹 Databases
-- 🗄️ SQL Server, MySQL — *Intermediate*
-- 🌱 NoSQL, FireBase — *Currently learning*
+- 🗄️ SQL Server, MySQL 
+- 🌱 NoSQL, Firebase 
 
 ### 🔹 Tools & Systems
 - 🌿 Git & GitHub  
@@ -50,7 +50,6 @@
 - ⚡ FastAPI  
 - 🐋 Docker  
 - 🧠 Deep Learning  
-- 🔥 NoSQL Databases  
 
 ---
 
