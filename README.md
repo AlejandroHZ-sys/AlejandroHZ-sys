@@ -14,7 +14,7 @@
   <a href="https://www.linkedin.com/in/alejandro-hern%C3%A1ndez-zamora-98413a377/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
-  <a href="https://github.com/TU_USUARIO_GITHUB">
+  <a href="https://github.com/AlejandroHZ-sys)">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
   </a>
 </p>
