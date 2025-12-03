@@ -11,7 +11,7 @@
   <a href="mailto:TU_CORREO_AQUI">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
-  <a href="https://www.linkedin.com/in/alejandro-hern%C3%A1ndez-zamora-98413a377/">
+  <a href="https://www.linkedin.com/in/alejandro-hernandez-zamora">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
   <a href="https://github.com/AlejandroHZ-sys">
