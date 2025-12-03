@@ -36,7 +36,7 @@
 
 ### 🔹 Databases
 - 🗄️ SQL Server, MySQL — *Intermediate*
-- 🌱 NoSQL — *Currently learning*
+- 🌱 NoSQL, FireBase — *Currently learning*
 
 ### 🔹 Tools & Systems
 - 🌿 Git & GitHub  
