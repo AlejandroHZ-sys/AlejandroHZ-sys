@@ -8,16 +8,14 @@
 ---
 
 <p align="center">
-  <a href="https://TU_PORTAFOLIO_AQUI.com">
-    <img src="https://img.shields.io/badge/Portfolio-4F46E5?style=for-the-badge&logo=vercel&logoColor=white">
-  </a>
   <a href="https://www.linkedin.com/in/alejandro-hernandez-zamora">
-    <img src="https://img.shields.io/badge/LinkedIn-2563EB?style=for-the-badge&logo=linkedin&logoColor=white">
+    <img src="https://img.shields.io/badge/LinkedIn-00AEEF?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
   <a href="https://github.com/AlejandroHZ-sys">
-    <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white">
+    <img src="https://img.shields.io/badge/GitHub-00C853?style=for-the-badge&logo=github&logoColor=white">
   </a>
 </p>
+
 ---
 
 ## 🖥️ Tech Stack
