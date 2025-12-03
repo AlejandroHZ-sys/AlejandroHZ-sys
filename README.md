@@ -82,7 +82,7 @@ Feel free to explore my repositories and follow my progress.
 ## 📫 Contact & Location
 
 - 🔗 **LinkedIn:**  
-  https://www.linkedin.com/in/alejandro-hern%C3%A1ndez-zamora-98413a377/  
+  [https://www.linkedin.com/in/alejandro-hern%C3%A1ndez-zamora-98413a377/  ](https://www.linkedin.com/in/alejandro-hernandez-zamora)
 - 📍 **Location:** Mexico City, Mexico  
 
 ---
