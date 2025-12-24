@@ -1,4 +1,4 @@
-# 👋 Hi! I'm Alejandro Zamora  
+# 👋 Hi! I'm Alejandro Hernández Zamora  
 ### 💻 Computer Systems Engineering Student | Machine Learning & Software Development
 
 🎓 **Computer Systems Engineering student** at **ESCOM – IPN**  
@@ -38,7 +38,7 @@
 ### 🔹 Tools & Systems
 - 🌿 Git & GitHub  
 - 🐧 Linux (Ubuntu) — *Basic*
-- 🌐 HTML, CSS, PHP — *Basic*
+- 🌐 HTML, CSS, PHP 
 
 ---
 
@@ -72,7 +72,7 @@ Here you will find projects that reflect:
 - ✅ Problem-solving skills  
 - ✅ Continuous professional growth  
 
-Feel free to explore my repositories and follow my progress.
+Feel free to explore my repositories
 
 ---
 
