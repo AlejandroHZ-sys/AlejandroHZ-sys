@@ -1,9 +1,9 @@
-# 👋 Hi! I'm Alejandro Hernández Zamora  
+#  Hi! I'm Alejandro Hernández Zamora  
 ### 💻 Computer Systems Engineering Student | Machine Learning & Software Development
 
 🎓 **Computer Systems Engineering student** at **ESCOM – IPN**  
-📍 Mexico City, Mexico  
-💡 Passionate about **software development**, **machine learning**, **problem solving**, and **technology applied to real-world solutions**.
+ Mexico City, Mexico  
+ Passionate about **software development**, **machine learning**, **problem solving**, and **technology applied to real-world solutions**.
 
 ---
 
@@ -62,21 +62,21 @@ Most of my work is focused on:
 
 ---
 
-## 📚 About This Profile
+##  About This Profile
 
 This GitHub profile serves as my **professional technical portfolio** for future job and internship opportunities.
 
 Here you will find projects that reflect:
-- ✅ My learning process  
-- ✅ Code organization  
-- ✅ Problem-solving skills  
-- ✅ Continuous professional growth  
+-  My learning process  
+-  Code organization  
+-  Problem-solving skills  
+-  Continuous professional growth  
 
 Feel free to explore my repositories
 
 ---
 
-## 📫 Contact & Location
+##  Contact & Location
 
 - 🔗 **LinkedIn:**  
   https://www.linkedin.com/in/alejandro-hernandez-zamora
