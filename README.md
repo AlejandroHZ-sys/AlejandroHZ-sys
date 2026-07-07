@@ -3,7 +3,7 @@
 
 🎓 **Computer Systems Engineering student** at **ESCOM – IPN**  
 📍 Mexico City, Mexico  
-Passionate about software development, machine learning, and building robust, real-world technological solutions.
+Focused on the development of distributed systems, applied machine learning, and secure software architecture.
 
 ---
 
