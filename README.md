@@ -30,7 +30,7 @@ Passionate about software development, machine learning, and building robust, re
 - SQL Server, MySQL, NoSQL, Firebase
 
 ### Cloud & Systems
-- ☁️ **Google Cloud Platform (GCP)** (GKE, Pub/Sub, Cloud Storage)
+- ☁️ **Google Cloud Platform (GCP)** 
 - Docker, Linux (Ubuntu), Git & GitHub
 - HTML, CSS, PHP
 
@@ -45,7 +45,7 @@ Passionate about software development, machine learning, and building robust, re
 ## 🛠️ Project Focus
 
 - **Distributed Systems:** Client-server layered architectures and fault-tolerant design.
-- **Cybersecurity & Cryptography:** Implementation of RSA-OAEP, AES-GCM, and ECDSA.
+- **Cryptography:** Application of modern cryptographic standards to ensure data privacy and system integrity in distributed environments.
 - **Machine Learning:** Research in speech processing, accent detection, and multi-task learning.
 - **Software Engineering:** Object-Oriented Programming, data structures, and automation tooling.
 
@@ -63,5 +63,3 @@ This repository serves as my professional technical portfolio. It contains proje
 - 📍 **Location:** Mexico City, Mexico
 
 ---
-
-*Always open to professional collaborations and challenging opportunities.*
