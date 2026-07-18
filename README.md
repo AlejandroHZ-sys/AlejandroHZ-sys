@@ -1,10 +1,10 @@
 # Alejandro Hernández Zamora
-### Computer Systems Engineering Student | Machine Learning & Software Development
+### Computer Systems Engineering Student | Machine Learning, Cryptography & Software Development
 
 🎓 **Computer Systems Engineering student** at **ESCOM – IPN**  
 📍 Mexico City, Mexico  
-Focused on the development of distributed systems, applied machine learning, and secure software architecture.
 
+Focused on applied machine learning, cryptography, and the development of distributed systems.
 ---
 
 <p align="center">
@@ -21,7 +21,7 @@ Focused on the development of distributed systems, applied machine learning, and
 ## 🖥️ Tech Stack
 
 ### Programming Languages
-- Java, Python, C, C++
+- Java, Python, C
 
 ### Machine Learning & Data
 - Scikit-learn, NumPy, Pandas, Matplotlib, Deep Learning
@@ -36,24 +36,24 @@ Focused on the development of distributed systems, applied machine learning, and
 
 ---
 
-## 🚀 Currently Learning
+## Currently Learning
 - Advanced Deep Learning architectures
-- LLM integration and automation
+- LLM integration 
 
 ---
 
 ## 🛠️ Project Focus
 
-- **Distributed Systems:** Client-server layered architectures and fault-tolerant design.
+- **Distributed Systems:** Client-server layered architectures.
 - **Cryptography:** Application of modern cryptographic standards to ensure data privacy and system integrity in distributed environments.
-- **Machine Learning:** Research in speech processing, accent detection, and multi-task learning.
+- **Machine Learning:** Implementation of predictive, classification, and sequence-to-sequence models for data-driven projects.
 - **Software Engineering:** Object-Oriented Programming, data structures, and automation tooling.
 
 ---
 
 ## About This Profile
 
-This repository serves as my professional technical portfolio. It contains projects that demonstrate my ability to organize code, solve complex engineering problems, and apply technical knowledge to professional-grade environments.
+This is where I keep the projects I’ve been working on. I use this space to share what I'm learning and the technical challenges I enjoy solving for fun or to sharpen my skills. I hope you find something interesting here!
 
 ---
 
